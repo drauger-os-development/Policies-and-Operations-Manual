@@ -1,0 +1,30 @@
+Drauger OS CCT Meeting
+
+date: 2021-11-11
+
+1. Meeting was called to order at 9:15 PM
+
+2. Old business: none
+
+3. New business
+	- future of ISO building/checklist
+	- build status of 7.6
+	- new bot feedback
+	
+	- selecting Treasurer and Secretary
+		- Senlis selected as Treasurer
+		- Topaz selected as Secretary
+	
+	- financial summary: $97.25 in bank
+	
+	- Batcastle will look into Patreon usage
+	
+	- Motion to move Policy and Operations manual on Github
+		- batcastle seconded
+		- approved by CCT team
+
+4. Community quorum: none
+
+5. CCT Session: none
+
+6. Meeting adjourned at 10:18 PM

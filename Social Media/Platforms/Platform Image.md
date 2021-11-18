@@ -1,0 +1,6 @@
+# Platform Image
+The image of a given Platform is important to Drauger OS when the CCT considers adopting that Platform.
+
+If a Platform appears to the public as being strongly for one political party or another, that could reflect poorly on Drauger OS. Similarly, if a Platform is a place where people with extremist views congregate, that could also reflect back on Drauger OS. As show by our Contributor Posting Policy (below), we strive to remain as apolitical, secular, and otherwise neutral as possible. Having an image of supporting one political party over another, or supporting extremist views, could deter some users from using Drauger OS. As such we want to remain as neutral as possible at all times and avoid areas online where extreme stances are taken on these fronts.
+
+On a final note, part of a Platform's Image is its stability and ease of use. If the software is buggy or difficult to use, that is an obstacle to adoption for us. This is because we want to be sure our Contributors and Users have an easy-to-use platform to manage and have fun on at all times. If the Platform crashes, throws errors, or is unnecessarily difficult to use, we may not adopt that platform.

@@ -1,0 +1,2 @@
+# Content Policy
+All content should follow our [Community Guidelines](https://draugeros.org/go/wiki/community-guidelines/), be it posted to one of our platforms by a user or a Contributor. Any content found not to be following our Content Policy will be immediately removed. 
