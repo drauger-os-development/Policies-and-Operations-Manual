@@ -40,7 +40,7 @@ All CCT Members (except the first CCT) must go through the following process yea
 	In a Repeat Election, Candidates who have already won a CCT position need not re-run, as their position is safe. Furthermore, the Declining Candidate may not re-run for a CCT position until the next yearly CCT Election.
 
 ## Leaving
-There are two (2) ways in which a Contributor can voluntarily leave the CCT.
+There one ways in which a Contributor can voluntarily leave the CCT.
 
 1. **Resignation**
 
@@ -48,16 +48,16 @@ There are two (2) ways in which a Contributor can voluntarily leave the CCT.
 
 2. **Inactivity**
 
-	Any Contributor who does not respond to messages within a 2 week period will become inactive.  When contributors, CPM, or ACPM identify a member who is not responding, they will bring it to the attention to the CCT members in the cct-text channel.  If the inactivity is verified by the CCT, that member will become an inactive CCT member.  The final deciding authority is the CPM, followed by the ACPM.  This does not apply to members who have arranged, in advance, to be away for a period of time.
 
-	Inactive CCT members have no CCT rights or authority.  Inactive CCT members can become active by vote of the CCT.  Members who have become an inactive CCT member for one month without contacting the CCT will be removed as a contributor.
 
 ## Maintaining Membership
 Maintaining Membership of the CCT requires Contributors to follow the below points:
 
 * **Remain Active**
 
-	If a Contributor is not active for at least 3 months, and there is no prior notice of a Leave of Absence, then the Contributor will assume to forfeit their position on the CCT.
+	Any Contributor who does not respond to messages within a 2 week period will become inactive.  When contributors, CPM, or ACPM identify a member who is not responding, they will bring it to the attention to the CCT members in the cct-text channel.  If the inactivity is verified by the CCT, that member will become an inactive CCT member.  The final deciding authority is the CPM, followed by the ACPM.  This does not apply to members who have arranged, in advance, to be away for a period of time.
+
+	Inactive CCT members have no CCT rights or authority.  Inactive CCT members can become active by vote of the CCT.  Members who have become an inactive CCT member for one month without contacting the CCT will be removed as a contributor.
 
 * **Uphold the Community Guidelines and Contributor Posting Policy, and CCT Code of Conduct**
 
