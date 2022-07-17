@@ -2,11 +2,11 @@
 
 1. **Draft Phase**
 
-	Any contributor can create a policy change or action item proposal by creating a thread in the cct-text channel.
+	During this phase, any Contributor may draft up a policy or change to a policy. They should gain the approval for policy or change from at least one (1) other Contributor before proceeding onto the next Phase
 	
 2. **Presentation Phase**
 
-	After the Draft Phase, any approving Contributor may present the policy or change to the CCT. This presentation requires 2 parts: sharing of the new policy or change, and a time to answer questions to create clarification.
+	After the Draft Phase, any approving Contributor may present the policy or change to the CCT by creating a thread in the cct-text channel. This presentation requires 2 parts: sharing of the new policy or change, and a time to answer questions to create clarification.
 	
 3. **CCT Debate and Deliberation**
 
