@@ -1,3 +1,5 @@
+The following policy is no longer in effect, but is kept as a template for when we have a new member to delegate website duties to.
+
 ### Delegation Of Website Duties to Logan L. Johnson
 
 This document hereby delegates all Website Duties to Logan L. Johnson (the Contributor), with Thomas Castleman (the Supervisor) as their direct supervisor within the CCT.

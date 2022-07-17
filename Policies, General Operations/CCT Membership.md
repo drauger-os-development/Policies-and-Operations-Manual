@@ -48,7 +48,9 @@ There are two (2) ways in which a Contributor can voluntarily leave the CCT.
 
 2. **Inactivity**
 
-	Any Contributor may "ghost" the CCT to voluntarily resign from their position. This is not advised, however, as it takes 3 months to take affect.
+	Any Contributor who does not respond to messages within a 2 week period will become inactive.  When contributors, CPM, or ACPM identify a member who is not responding, they will bring it to the attention to the CCT members in the cct-text channel.  If the inactivity is verified by the CCT, that member will become an inactive CCT member.  The final deciding authority is the CPM, followed by the ACPM.  This does not apply to members who have arranged, in advance, to be away for a period of time.
+
+	Inactive CCT members have no CCT rights or authority.  Inactive CCT members can become active by vote of the CCT.  Members who have become an inactive CCT member for one month without contacting the CCT will be removed as a contributor.
 
 ## Maintaining Membership
 Maintaining Membership of the CCT requires Contributors to follow the below points:
