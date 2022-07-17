@@ -1,5 +1,5 @@
 # Executive Action
-Executive Action is when the CPM is able to take dictatorial control of the project to respond to crisis situations, or when changes need to be made that can't follow normal procedures.
+Executive Action is when the CPM is able to take dictatorial control of the project to respond to crisis situations, or when changes need to be made that can't follow normal procedures or when it is higly impractical to do so.
 
 If Executive Action is to be invoked. The CPM **MUST** announce the invocation so that CCT members may act accordingly.
 
