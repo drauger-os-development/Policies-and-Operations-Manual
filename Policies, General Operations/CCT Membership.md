@@ -46,10 +46,6 @@ There one ways in which a Contributor can voluntarily leave the CCT.
 
 	Any Contributor on the CCT may voluntarily resign from their position. No reason has to be given (although it is strongly recommended), and the CCT must acknowledge the Contributor's resignation. Rejections of resignations are strictly disallowed.
 
-2. **Inactivity**
-
-
-
 ## Maintaining Membership
 Maintaining Membership of the CCT requires Contributors to follow the below points:
 
