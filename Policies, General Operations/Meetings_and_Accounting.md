@@ -14,7 +14,7 @@ All proceedings in threads will follow the guidelines the the standard protocol 
 
 ##### President
 
-The President position if fullfilled primarily by the CPM and secondarily by the ACPM.
+The President position is fullfilled primarily by the CPM and secondarily by the ACPM.
 
 ##### Secretary position
 
