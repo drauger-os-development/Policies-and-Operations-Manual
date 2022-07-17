@@ -20,7 +20,7 @@ The President position is fullfilled primarily by the CPM and secondarily by the
 
 This policy enacts the position of Secreatary.  The secretary will track threads and update the president on their status.  Updates will include proposals and action items that are lacking progress and when action items have due dates that have passed.  Overall, the secretary is assisting the president to keep on-track with the proposals and action items.
 
-The secretary will create a report quarterly to show, at a minimum, thread creation date, completion date, and summary.  The report will also include any time executive action is used and for what purpose.  These reports will be presented for to the Drauger OS channel in Discord.
+The secretary will create a report quarterly to show, at a minimum, thread creation date, completion date, and summary.  The report will also include any time executive action is used and for what purpose.  These reports will be presented to the Drauger OS channel in Discord.
 
 # Finances
 
