@@ -2,7 +2,7 @@
 
 1. **Draft Phase**
 
-	During this phase, any Contributor may draft up a policy or change to a policy. They should gain the approval for policy or change from at least one (1) other Contributor before proceeding onto the next Phase
+	During this phase, any Contributor may draft up a policy or change to a policy. They should gain the approval for policy or change from at least one (1) other Contributor before proceeding onto the next Phase.
 	
 2. **Presentation Phase**
 

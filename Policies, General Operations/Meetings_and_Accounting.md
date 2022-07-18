@@ -1,12 +1,12 @@
 # Meetings
 
-Meetings will be held in continuously in the cct-text channel.  CCT members are expected to check the channel and threads and communicate daily as required.  
+Instead of meetings, communications will happen continuously in the cct-text channel.  CCT members are expected to check the channel and threads and communicate daily as required.  
 
 ##### Proposals
 
 Proposals changing the Policies and Operations Manual will be made through a pull request in Github.
 
-An action item is a proposal that is not intended to be permanent addition to the Policies and Operations Manual, but rather actions to be taken by and individual or group.
+An action item is a proposal that is not intended to be permanent addition to the Policies and Operations Manual, but rather actions to be taken by an individual or group.
 
 Any action items should have a person assigned to it and an expected finish date set.  The purpose of this requirement is so it is clear who is working on it and when we can expect it to be finished (or at least an update).
 

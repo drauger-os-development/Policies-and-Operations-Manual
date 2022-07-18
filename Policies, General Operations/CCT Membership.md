@@ -40,7 +40,7 @@ All CCT Members (except the first CCT) must go through the following process yea
 	In a Repeat Election, Candidates who have already won a CCT position need not re-run, as their position is safe. Furthermore, the Declining Candidate may not re-run for a CCT position until the next yearly CCT Election.
 
 ## Leaving
-There one ways in which a Contributor can voluntarily leave the CCT.
+There is one way in which a Contributor can voluntarily leave the CCT.
 
 1. **Resignation**
 
