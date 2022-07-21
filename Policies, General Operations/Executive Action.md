@@ -1,5 +1,5 @@
 # Executive Action
-Executive Action is when the CPM is able to take dictatorial control of the project to respond to crisis situations. This is to facilitate swift responses to crisis situations, as following the Standard Protocol would be too lengthy of a process.
+Executive Action is when the CPM is able to take dictatorial control of the project to respond to crisis situations, or when changes need to be made that can't follow normal procedures or when it is higly impractical to do so.
 
 If Executive Action is to be invoked. The CPM **MUST** announce the invocation so that CCT members may act accordingly.
 
@@ -18,5 +18,9 @@ This state is not indefinite. There are 3 ways in which the Project can be retur
 3. **Time Out**
 
 	If the CPM does not voluntarily surrender this power, or the CCT does not Overthrow them, then in 48 hours this power will no longer be in effect.
+
+4. **Single Change**
+
+	If the CPM needs to make a single change, then the power is lost after that change is made.
 	
 This power can also be _EXTENDED_ if the CCT approves of it through Standard Protocol. This may include a defined time frame, at a maximum of 1 week in length. If none is specified, then the default is 24 hours.

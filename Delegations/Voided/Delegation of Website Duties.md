@@ -1,3 +1,7 @@
+# VOID
+
+20220718 update: The authorities delegated below have been revoked.  This document has been preserved for record keeping purposes.
+
 ### Delegation Of Website Duties to Logan L. Johnson
 
 This document hereby delegates all Website Duties to Logan L. Johnson (the Contributor), with Thomas Castleman (the Supervisor) as their direct supervisor within the CCT.
@@ -21,3 +25,5 @@ In addition to these limitations, it is requested that the Contributor keep trac
 #### Violation of Limitations
 
 In the event the Contributor violates their limitations, without direct, prior, written approval from either the Supervisor, the CCT, or the CPM (if Executive Action has been invoked), the Contributor submits to have all Granted Powers stripped from them. Furthermore, this Delegation is rendered null and void and is only preserved for record keeping purposes.
+
+# VOID
