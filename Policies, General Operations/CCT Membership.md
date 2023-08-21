@@ -88,3 +88,12 @@ The responsibilities below do not imply any legal responsibility.
 - Director of Marketing
 	- Responsible for the promotion of Drauger OS
 	- Responsible for fundraisers and merchandise
+- Director of User Experience (UX)
+	- Ensure marketing claims are valid
+	- Ensure support cases are handled
+	- Ensure applications work correctly and make sense
+- Director of User Interface (UI)
+	- Ensures all Drauger OS apps, OS and website all follow the same:
+		- design conventions
+		- color pallet
+		- icon team
