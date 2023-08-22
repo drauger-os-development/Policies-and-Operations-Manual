@@ -96,4 +96,4 @@ The responsibilities below do not imply any legal responsibility.
 	- Ensures all Drauger OS apps, OS and website all follow the same:
 		- design conventions
 		- color pallet
-		- icon team
+		- icon theme
